@@ -103,6 +103,9 @@ pnpm dev
 - **Ratnesh Singh Rajput**
   - **Position/Role:** Frontend Development
 
+- **Sanskar Singh**
+   - **Position/Role :** Frontend development
+
 - **Pukhraj Kushwah**
   - **Position/Role:** 3D Model Renderings, Presentation
 
