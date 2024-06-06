@@ -112,5 +112,3 @@ pnpm dev
 
 # Contributors
 Thank you for joining us on this journey to revolutionize science education with Augmented Reality! We welcome your contributions and look forward to making AbleEd an exceptional learning tool for students worldwide.
-
-https://learn.mongodb.com/learning-paths/introduction-to-mongodb-for-ict-students
